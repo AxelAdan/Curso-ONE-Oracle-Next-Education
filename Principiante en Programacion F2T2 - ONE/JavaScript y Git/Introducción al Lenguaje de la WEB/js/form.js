@@ -30,7 +30,6 @@ botonAdicionar.addEventListener("click",function(event){
     pacienteTr.appendChild(alturaTd);
     pacienteTr.appendChild(gorduraTd);
     pacienteTr.appendChild(imcTd);
-
     tabla.appendChild(pacienteTr);
 
 });

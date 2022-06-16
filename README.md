@@ -18,6 +18,8 @@ Este repositorio contiene las actividades desarrolladas del curso ONE Oracle Nex
   - JavaScript (Consolide sus Conocimientos en el Lenguaje de la WEB)
   - Git y GitHub (Controle y Comparta su Código)
 
+
+
 ## Front End F2G2 - ONE
   **Front-End UI**:
   - Flexbox (Posicione Elementos en la Pantalla)

@@ -27,6 +27,20 @@ Este repositorio contiene las actividades desarrolladas del curso ONE Oracle Nex
   - Accesibilidad WEB (Introducción al Diseño Inclusivo)
 
 ## Java Orientado a Objetos F2G2 - ONE
+  **Entender el Lenguaje Java y Orientación a Objetos**:
   - Java Parte 1 (Primeros Pasos)
+  - Java Parte 2 (Introducción Orientada a Objetos)
+  - Java Parte 3 (Entendiendo Herencia e Interfaces)
+  - Java Parte 4 (Entendiendo Excepciones)
+  
+  **Conocer las Principales Bibliotecas**:
+  - Java y java.lang (Programe con la Clase Object y String)
+  - Java y java.util (Coleciones, Wrappers y Lambda Expressions)
+  - Java y java.io (Streams, Reader y Writers)
+  - Java (Dominando las Collections)
+
+  **Profundizando en Java Moderno y JDBC**:
+  - Java 8 (Aproveche los Nuevos Recursos del Lenguaje)
+  - Java y JDBC (Trabajando con una Base de Datos)
 
 ![Curso ONE Oracle Next Education](https://www.acate.com.br/wp-content/uploads/2021/11/site-acate-1500x750-50-1200x460.png)

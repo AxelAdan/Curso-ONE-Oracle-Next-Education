@@ -26,4 +26,7 @@ Este repositorio contiene las actividades desarrolladas del curso ONE Oracle Nex
   - Arquitectura CSS (Descomplicando los Problemas)
   - Accesibilidad WEB (Introducción al Diseño Inclusivo)
 
+## Java Orientado a Objetos F2G2 - ONE
+  - Java Parte 1 (Primeros Pasos)
+
 ![Curso ONE Oracle Next Education](https://www.acate.com.br/wp-content/uploads/2021/11/site-acate-1500x750-50-1200x460.png)
